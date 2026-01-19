@@ -1,6 +1,10 @@
-# 💫 About Me:
-I’m a software engineer who builds web applications people can rely on.<br>I focus on understanding problems, designing simple solutions, and turning ideas into working software.<br><br>I care about creating tools that are useful, reliable, and maintainable, and I prefer making progress and shipping features over waiting for “perfect.”<br>I learn by building, testing, and improving, always aiming to deliver value through the work I create.
+💫 About Me:
 
+I’m a backend-strong full-stack engineer passionate about building web applications that people and businesses can rely on. I approach every problem from first principles, breaking complex challenges into simple, maintainable solutions that scale.
+
+I specialize in designing and implementing systems with Node.js, Express, MongoDB, and React, with a focus on authentication, API design, and backend architecture. I value progress over perfection, shipping features over waiting for “perfect,” and always aim to deliver real impact through my work.
+
+I learn by building, testing, and iterating, constantly refining my solutions based on logic and practical outcomes. Problem-solving drives me, and I prioritize creating software that’s reliable, secure, and user-focused.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-ibrahim-242aa1335) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/undefined_dev) 
